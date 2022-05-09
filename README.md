@@ -30,7 +30,8 @@ Using K-mean to clustering data area with less number of sushi bars
 
 Based on dataframe analysis this areas are the best places to open a new sushi bar business.
 
-image.png
+![Uploading Screenshot 2022-05-10 000036.png…]()
+
 
 ## Discussion
 This analysis is performed on limited data. This may be right or may be wrong. But if good amount of data is available there is scope to come up with better results.
