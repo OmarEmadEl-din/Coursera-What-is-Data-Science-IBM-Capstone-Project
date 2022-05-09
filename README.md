@@ -1,6 +1,6 @@
 # Coursera-What-is-Data-Science-IBM-Capstone-Project
-first of all, thank you Coursera for this great course, and thank you peers even I pass or not
-Introduction/Business Problem
+# first of all, thank you Coursera for this great course, and thank you peers even I pass or not
+## Introduction/Business Problem
 The City of New York is famous for its excellent cuisine. It's food culture includes an array of international cuisines influenced by the city's immigrant history. Sushi restaurants have become so popular in the United States now it seems that there is one on every corner, not only in major cities but also in smaller cities. Starting a sushi restaurant can be a great business opportunity, but you need to distinguish yourself from others to enjoy long-term success.
 
 My client desires to open his business in the Manhattan area, thus I concentrate on that borough throughout my analysis. we tend to outline potential neighborhoods supported by the number of dish bars that are operative right in every neighborhood. Manhattan has full potential but is also an awfully difficult district to open a business thanks to high competition. The new bar ought to be open in a part that inadequate neighborhood during this means the bar will attract additional customers. Therefore, this analysis necessary to make sure that we've got enough customers which we tend to don't seem to be so on the brink of alternative dish places.
